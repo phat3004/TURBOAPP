@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DOAN</string>
+    <string name="sign_up_link"> <a href="">SIGN UP</a> </string>
+    <string name="forgot_password"><a href="">Forgot Password?</a></string>
+    <string name="help"><a href="">Help?</a></string>
+    <string name="want_to_use_your_phone_number"><a href="">want to use your phone number?</a></string>
+    <string name="remember_me">Remember me</string>
+    <string name="click_here_to_get_code">Click here to get code</string>
+    <string name="enter">Enter</string>
+    <string name="out"><a href="">Exit</a></string>
+</resources>
